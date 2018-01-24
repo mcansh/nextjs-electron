@@ -19,14 +19,14 @@
   "keywords": [],
   "dependencies": {
     "electron-is-dev": "^0.3.0",
-    "electron-next": "^3.1.1"
+    "electron-next": "^3.1.3"
   },
   "devDependencies": {
-    "electron": "^1.7.5",
-    "electron-builder": "^19.22.1",
-    "next": "^3.0.6",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "electron": "^1.7.11",
+    "electron-builder": "^19.55.2",
+    "next": "^4.2.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   },
   "author": "Logan McAnsh <logan@mcan.sh> (https://mcan.sh)"
 }
